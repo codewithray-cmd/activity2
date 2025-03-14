@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="movies.xsl"?>
+
+<movies>
+    <movie id="1">
+        <movieTitle>Counterattack</movieTitle>
+        <director>Chava Cartas</director>
+        <actors>
+            <actor>Luis Alberti</actor>
+            <actor>Luis Curiel</actor>
+            <actor>Leonardo Alonso</actor>
+        </actors>
+        <year>2025</year>
+    </movie>
+    <movie id="2">
+        <movieTitle>Divergent</movieTitle>
+        <director>Neil Burger</director>
+        <actors>
+            <actor>Shailene Woodley</actor>
+            <actor>Miles Teller</actor>
+            <actor>Ashley Judd</actor>
+        </actors>
+        <year>2014</year>
+    </movie>
+    <movie id="3">
+        <movieTitle>Eye for an Eye</movieTitle>
+        <director>John Schlesinger</director>
+        <actors>
+            <actor>Sally Field</actor>
+            <actor>Kiefer Sutherland</actor>
+            <actor>Ed Harris</actor>
+        </actors>
+        <year>1996</year>
+    </movie>
+    <movie id="4">
+        <movieTitle>Demon City</movieTitle>
+        <director>Seiji Tanaka</director>
+        <actors>
+            <actor>Toma Ikuta</actor>
+            <actor>Masahiro Higashide</actor>
+            <actor>Miou Tanaka</actor>
+        </actors>
+        <year>2025</year>
+    </movie>
+    <movie id="5">
+        <movieTitle>Delicious</movieTitle>
+        <director>Nele Mueller-Stofen</director>
+        <actors>
+            <actor>Valerie Pachner</actor>
+            <actor>Fahri Yardim</actor>
+            <actor>Carla Diaz</actor>
+        </actors>
+        <year>2025</year>
+    </movie>
+</movies>
